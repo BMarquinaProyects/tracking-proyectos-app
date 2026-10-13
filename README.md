@@ -20,7 +20,7 @@ de manera simultanea.
 
 ## Instalación
 
-1. Descarga `Tracking-Proyectos-2.0.0-setup.exe` desde [Releases](https://github.com/BMarquinaProyects/tracking-proyectos-app/releases/latest).
+1. Descarga `Tracking-Proyectos-2.0.3-setup.exe` desde [Releases](https://github.com/BMarquinaProyects/tracking-proyectos-app/releases/latest).
 2. Ábrelo. Como el instalador no tiene firma digital de pago, Windows puede mostrar **"Windows protegió su PC"**: pulsa **Más información → Ejecutar de todas formas**.
 3. Se instala para tu usuario (no pide permisos de administrador) y se abre al iniciar Windows. Puedes desactivarlo en Ajustes.
 
